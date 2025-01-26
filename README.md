@@ -1,11 +1,7 @@
-class Car:  
-    # define the class variable or static variable of class Car  
-    num = 10  
-    msg = 'This is a very good Car.'  
-  
-# create the object of the class  
-obj = Car()  
-  
-# Access a static variable num using the class name with a dot operator.  
-print ("Lucky No.", Car.num)  
-print (Car.msg)  
+class Test
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Nuvvu thurum raa");
+    }
+}
